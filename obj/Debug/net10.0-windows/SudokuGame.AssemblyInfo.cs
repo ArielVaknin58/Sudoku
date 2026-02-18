@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SudokuGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+352b095c7e5819860882ba2a9d02c69f653957d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd74bc13e44ffc60d04c6202a0487c9b3e9cd5c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SudokuGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SudokuGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

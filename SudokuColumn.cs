@@ -24,7 +24,7 @@ namespace WinFormsApp1
 
         public void AddValue(int value, int row_index)
         {
-            values.Add(row_index, value);
+            values[row_index] = value; 
             ints[row_index] = value;
             MissingValues.Remove(value);
         }
@@ -37,6 +37,15 @@ namespace WinFormsApp1
                 ints[row_index] = 0;
                 MissingValues.Add(value);
             }
+        }
+
+        public int getValue(int row_index)
+        {
+            if (values.TryGetValue(row_index, out int value))
+            {
+                return value;
+            }
+            return 0;
         }
     }
 }

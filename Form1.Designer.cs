@@ -41,6 +41,7 @@
             label1.Size = new Size(192, 32);
             label1.TabIndex = 0;
             label1.Text = "enter your name";
+            label1.Click += label1_Click;
             // 
             // submitbtn
             // 
