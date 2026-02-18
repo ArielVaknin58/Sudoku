@@ -1,3 +1,4 @@
+using SudokuGame;
 using System.Xml.Linq;
 
 namespace WinFormsApp1
@@ -31,6 +32,9 @@ namespace WinFormsApp1
                 // 4. Change the label text as well
                 label1.Text = $"Last user: {userName}";
             }
+
+            Form2 form2 = new Form2();
+            form2.Show();
         }
 
         private void Form1_Load(object sender, EventArgs e)

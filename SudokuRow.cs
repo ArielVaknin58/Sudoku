@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SudokuGame;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
@@ -7,16 +8,16 @@ namespace WinFormsApp1
 {
     internal class SudokuRow
     {
-        public int RowIndex { get; set; }
-        public Dictionary<int,int> values { get; set; } = new Dictionary<int,int>();
+        private int RowIndex { get; set; }
+        private Dictionary<int,int> values { get; set; } = new Dictionary<int,int>();
 
-        public HashSet<int> MissingValues { get; set; } = new HashSet<int>();
+        private HashSet<int> MissingValues { get; set; } = new HashSet<int>();
 
-        public int[] ints = new int[10];
+        private int[] ints = new int[AppSettings.ROW_COL_SIZE + 1];
         public SudokuRow(int rowIndex)
         {
             RowIndex = rowIndex;
-            for (int i = 1; i <= 9; i++)
+            for (int i = 1; i <= AppSettings.ROW_COL_SIZE; i++)
             {
                 MissingValues.Add(i);        
             }

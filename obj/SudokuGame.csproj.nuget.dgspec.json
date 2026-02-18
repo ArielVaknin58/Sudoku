@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuGame.csproj": {}
+    "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuGame.csproj": {
+    "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuGame.csproj",
+        "projectUniqueName": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuGame.csproj",
         "projectName": "SudokuGame",
-        "projectPath": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuGame.csproj",
+        "projectPath": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuGame.csproj",
         "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

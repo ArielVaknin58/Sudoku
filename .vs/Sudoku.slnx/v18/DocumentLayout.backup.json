@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|c:\\users\\ariel\\source\\repos\\winformsapp1\\sudokuboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|solutionrelative:sudokuboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|c:\\users\\ariel\\source\\repos\\winformsapp1\\sudokurow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|solutionrelative:sudokurow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|c:\\users\\ariel\\source\\repos\\winformsapp1\\sudokucolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|solutionrelative:sudokucolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|C:\\Users\\Ariel\\source\\repos\\Sudoku\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|c:\\users\\ariel\\source\\repos\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|c:\\users\\ariel\\source\\repos\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5265E3B-AAE7-4C15-8D75-BBC5E8D39752}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\sudokuboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:sudokuboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\sudokubox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:sudokubox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\sudokurow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:sudokurow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|c:\\users\\ariel\\source\\repos\\sudoku\\sudokucolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E555-06E8-B368-7777-B12D9E8964D1}|SudokuGame.csproj|solutionrelative:sudokucolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,62 +51,113 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:59:01.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:55:11.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SudokuBox.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuBox.cs",
+              "RelativeDocumentMoniker": "SudokuBox.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuBox.cs",
+              "RelativeToolTip": "SudokuBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:53:39.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AppSettings.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\AppSettings.cs",
+              "RelativeToolTip": "AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:45:49.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SudokuBoard.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuBoard.cs",
               "RelativeDocumentMoniker": "SudokuBoard.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuBoard.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuBoard.cs",
               "RelativeToolTip": "SudokuBoard.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T19:35:05.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "SudokuColumn.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuColumn.cs",
               "RelativeDocumentMoniker": "SudokuColumn.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuColumn.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuColumn.cs",
               "RelativeToolTip": "SudokuColumn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T19:26:48.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "SudokuRow.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuRow.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuRow.cs",
               "RelativeDocumentMoniker": "SudokuRow.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\SudokuRow.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\SudokuRow.cs",
               "RelativeToolTip": "SudokuRow.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwCQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T19:06:06.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T12:57:15.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\WinFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\Sudoku\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T16:58:59.156Z",
